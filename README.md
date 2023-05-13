@@ -214,7 +214,7 @@ Here's a look at the database. Compared to in '4. Bank Database (account_databas
 
 <br>
 
-**Login and Running Transactions**
+**Login and Running Transactions:**
 ```
 Welcome to Windy Banks!
 
