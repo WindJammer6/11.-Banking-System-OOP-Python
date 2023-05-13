@@ -158,6 +158,8 @@ database_user_list = database_object.get_users()
 
 More technical details is provided as comments within the code itself.
 
+Something I would like to point out is about the way the database is able to work with my program. I first had to convert the dataframe in 'account_database.csv' to a list of 'User' object via 'get_users(self)', where changes (withdrawal/deposit/registration) are made to this list, and then to save the changes back into the 'account_database.csv' file, I had to, at the end of the transations, convert the list first to a dictionary via 'as_dict(self)', then back to a dataframe via panda's 'pd.DataFrame()' function to be reuploaded back into the same csv file.
+
 <br>
 
 <br>
