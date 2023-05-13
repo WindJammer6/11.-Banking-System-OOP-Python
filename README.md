@@ -168,7 +168,7 @@ Something I would like to point out is about the way the database is able to wor
 
 Note that this output is obtained by running the 'windy_banks.py' file
 
-**For registration:**
+**Registration:**
 ```
 Welcome to Windy Banks!
 
