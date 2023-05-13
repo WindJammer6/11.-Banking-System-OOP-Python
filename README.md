@@ -125,6 +125,16 @@ This file stores all the accounts that have already been registered into Windy B
 
 This file contains code that runs the main banking system program, importing functionality of the Classes from 'bank.py' and 'user'py' for it to work.
 
+Python libraries imported:  
+```python
+import pandas as pd
+import sys
+import time  
+```
+1. Pandas, to load the database into 'windy_banks.py'
+2. sys, for the 'exit()' function to terminate my program whenever its needed to
+3. time, for the 'sleep()' function to make the program more user-friendly 
+
 Important variables and functions in 'windy_banks.py':  
 1.
 ```python
