@@ -288,7 +288,7 @@ Here's a look at the database again. From the above run, Thomas initially had $0
 
 ## Thoughts after the project
 
-I faced many unique challenges when implementing this Banking System. Here are the more significant challenges I faced:
+I faced many unique challenges when implementing this Banking System. Here are some of the more significant challenges I faced:
 
 -When it came to implementing a database into my project. (I believe when it comes to databases, the SQL Language is used, but for this project I had to improvise based on my current knowledge) This gave rise of many cryptic-looking functions being created with the help of ChatGPT (and some modifications to suit my code's purpose) such as 'as_dict(self)' and 'get_users(self)' to tackle the problem.
 
