@@ -27,7 +27,7 @@ https://openai.com/blog/chatgpt (ChatGPT)
 
 Computer program used for coding: VS Code
 
-## Table of Contents <a name = "codedescription"></a>
+## Table of Contents
 + [Code Description](#codedescription)
    1. [Banking System Features](#bankingsystemfeatures)
    2. [Bank-related operations (bank.py)](#bankrelatedoperations)
