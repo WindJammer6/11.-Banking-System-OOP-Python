@@ -137,7 +137,10 @@ import time
 2. sys, for the 'exit()' function to terminate my program whenever its needed to
 3. time, for the 'sleep()' function to make the program more user-friendly 
 
-Important variables and functions in 'windy_banks.py':  
+<br>
+
+Important variables and functions in 'windy_banks.py':
+
 1.
 ```python
 global user_database
