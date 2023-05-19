@@ -27,19 +27,25 @@ https://openai.com/blog/chatgpt (ChatGPT)
 
 Computer program used for coding: VS Code
 
-## Code description
-Let's start with:
-1. Banking System Features
-2. Bank-related operations (bank.py)
-3. User-related operations (user.py)
-4. Bank Database (account_database.csv)
-5. Windy Banks (windy_banks.py)
+## Table of Contents <a name = "codedescription"></a>
++ [Code Description](#codedescription)
+   1. [Banking System Features](#bankingsystemfeatures)
+   2. [Bank-related operations (bank.py)](#bankrelatedoperations)
+   3. [User-related operations (user.py)](#userrelatedoperations)
+   4. [Bank Database (account_database.csv)](#bankdatabase)
+   5. [Windy Banks (windy_banks.py)](#windybanks)
++ [Output](#output)
+   1. [Registration](#registration)
+   2. [Login and Running Transactions](#loginandrunningtransactions)
++ [Thoughts after the project](#thoughts)
 
 <br>
 
 <br>
 
-**1. Banking System Features**
+## Code Description <a name = "codedescription"></a>
+
+### 1. Banking System Features <a name = "bankingsystemfeatures"></a>
 
 Here's a summary of what my version of the Banking System does:
 
@@ -56,7 +62,7 @@ Here's a summary of what my version of the Banking System does:
    
 <br>
 
-**2. Bank-related operations (bank.py)**
+### 2. Bank-related operations (bank.py) <a name = "bankrelatedoperations"></a>
 
 This file contains code that executes any administrative operations within the bank system such as user registration and loading of the database into the code.
 
@@ -78,7 +84,7 @@ More technical details is provided as comments within the code itself.
 
 <br>
 
-**3. User-related operations (user.py)**
+### 3. User-related operations (user.py) <a name = "userrelatedoperations"></a>
 
 This file contains code that executes any user-related operations when they are using the bank system such as depositing, withdrawing and viewing their account balance.
 
@@ -101,7 +107,7 @@ More technical details is provided as comments within the code itself.
 
 <br>
 
-**4. Bank Database (account_database.csv)**
+### 4. Bank Database (account_database.csv) <a name = "bankdatabase"></a>
 ```
 name,password,amount
 john,john66,10000
@@ -121,7 +127,7 @@ This file stores all the accounts that have already been registered into Windy B
 
 <br>
 
-**5. Windy Banks (windy_banks.py)**
+### 5. Windy Banks (windy_banks.py) <a name = "windybanks"></a>
 
 This file contains code that runs the main banking system program, importing functionality of the Classes from 'bank.py' and 'user'py' for it to work.
 
@@ -164,11 +170,11 @@ Something I would like to point out is about the way the database is able to wor
 
 <br>
 
-## Output (the exciting part):grinning:
+## Output (the exciting part):grinning: <a name = "output"></a>
 
 Note that this output is obtained by running the 'windy_banks.py' file
 
-**Registration:**
+### Registration: <a name = "registration"></a>
 ```
 Welcome to Windy Banks!
 
@@ -214,7 +220,7 @@ Here's a look at the database. Compared to in '4. Bank Database (account_databas
 
 <br>
 
-**Login and Running Transactions:**
+### Login and Running Transactions: <a name = "loginandrunningtransactions"></a>
 ```
 Welcome to Windy Banks!
 
@@ -286,7 +292,7 @@ Here's a look at the database again. From the above run, Thomas initially had $0
 
 <br>
 
-## Thoughts after the project
+## Thoughts after the project <a name = "thoughts"></a>
 
 I faced many unique challenges when implementing this Banking System. Here are the more significant challenges I faced:
 
