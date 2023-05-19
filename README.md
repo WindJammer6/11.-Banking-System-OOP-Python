@@ -11,17 +11,13 @@ This is my first time I had a personal project that required importing from othe
 
 <br>
 
-Sources:
-
-https://copyassignment.com/python-oop-projects-source-code-and-example/ (OOP Python project ideas) 
-
-https://www.youtube.com/watch?v=xTh-ln2XhgU (Johan Gondinho)                                                                                                                
-(Idea for Banking System features of deposit, withdraw  and view balance came from here. However, I thought his program could have been more realistic by adding a database so that the program will actually remember user accounts)
-
-https://github.com/bizarrenebula/Simple-Banking-System (bizarrenebula on Github)                                                                                         
-(Idea for Banking System feature of user registration and a database to store the user's account information, changing in real time when transactions are made and retrive the account info when needed)
-
-https://openai.com/blog/chatgpt (ChatGPT)
+**Sources:**
++ https://copyassignment.com/python-oop-projects-source-code-and-example/ (OOP Python project ideas) 
++ https://www.youtube.com/watch?v=xTh-ln2XhgU (Johan Gondinho)                                                                                                               
+   + (Idea for Banking System features of deposit, withdraw  and view balance came from here. However, I thought his program could have been more realistic by adding a database so that the program will actually remember user accounts)
++ https://github.com/bizarrenebula/Simple-Banking-System (bizarrenebula on Github)                                                                                         
+   + (Idea for Banking System feature of user registration and a database to store the user's account information, changing in real time when transactions are made and retrive the account info when needed)
++ https://openai.com/blog/chatgpt (ChatGPT)
 
 <br>
 
